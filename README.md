@@ -1,4 +1,2 @@
-# Custom_Shadowrocket_Rules
-
-Shadowrocket 规则  
-个人自用测试
+#Shadowrocket 全分组防DNS泄漏
+个人自用，分组齐全，DNS 无泄漏
