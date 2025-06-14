@@ -12,12 +12,12 @@ Shadowrocket > 配置 > 右上角加号
 
 标准规则：
 ```
-https://cdn.jsdelivr.net/gh/Aethersailor/Custom_Shadowrocket_Rules@refs/heads/main/Custom_Shadowrocket_Rules.conf
+https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_Shadowrocket_Rules@refs/heads/main/Custom_Shadowrocket_Rules.conf
 ```
 
 回家规则：
 ```
-https://cdn.jsdelivr.net/gh/Aethersailor/Custom_Shadowrocket_Rules@refs/heads/main/Custom_Shadowrocket_Rules_Back.conf
+https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_Shadowrocket_Rules@refs/heads/main/Custom_Shadowrocket_Rules_Back.conf
 ```
 
 由于 Shadowrocket 不是本项目维护者的主力 APP，因此本规则更新随缘。  
