@@ -3,6 +3,10 @@
 分组齐全，国内外 DNS 分流，确保无泄漏  
 测试状态，规则过于全面，可能导致 Shadowrocket 耗电增加  
 
+本项目为的目的是复刻 [Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) 项目的使用体验至 Shadowrocket 中。  
+未针对移动端对规则做出相应的调整，因此不保证使用体验。  
+以后也许会更新。  
+
 使用方法：  
 Shadowrocket > 配置 > 右上角加号  
 
